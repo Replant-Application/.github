@@ -1,12 +1,56 @@
-## Hi there 👋
+<img width="1119" height="418" alt="532294881-1a1e4863-862b-4376-b859-26e4bb1cea2a (1)" src="https://github.com/user-attachments/assets/c42ed7ff-245c-41e6-8036-30f2a1b63dba" />
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <a href="https://play.google.com/store">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+         height="70"
+         alt="Get it on Google Play">
+  </a>
+</p>
+
+<p align="center">
+<em>Grow quietly, one day at a time.</em>
+</p>
+
+
+# 🌱 Replant App
+
+![React Native](https://img.shields.io/badge/React%20Native-0.81.4-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-54.0.30-000020?logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+> **"쉬었음 청년을 위한 성장 앱"** - 나만의 미션으로 성장하는 캐릭터와 함께하는 심리상담 플랫폼
+
+<img width="908" height="400" alt="image" src="https://github.com/user-attachments/assets/e6b6ddaa-43bf-4b6d-b6bf-2d8c1396d434" />
+
+## Stack & Libraries
+
+### Core
+- **React Native** 0.81.4
+- **TypeScript** 5.8.3
+- **Expo** 54.0.30
+- **React** 19.1.0
+
+### Navigation & State
+- Custom Navigation System (State-based)
+- React Context API
+- Custom Hooks
+
+### UI & Styling
+- React Native StyleSheet
+- Design Tokens System
+- FastImage
+- Custom UI Components
+  
+
+## Contributor
+
+| 김미르 | 임성혁 | 최홍석 |
+|:---:|:---:|:---:|
+| <img alt="미르 프로필" src="https://github.com/user-attachments/assets/661e0a9b-32aa-47b2-a901-cdc3a6aacac2" width="100" height="100"> | <img alt="성혁 프로필" src="https://github.com/user-attachments/assets/07a2ccb4-436d-440c-b8ab-849404d4ddb8" width="100" height="100"> | <img alt="홍석 프로필" src="https://avatars.githubusercontent.com/u/129854575?v=4" width="100" height="100"> |
+| [🔗 GitHub](https://github.com/kimmireu0220) | [🔗 GitHub](https://github.com/highcastle01) | [🔗 GitHub](https://github.com/ChatHongPT) |
+| <img alt="Frontend" src="https://img.shields.io/badge/Frontend-brightgreen">| <img alt="Frontend" src="https://img.shields.io/badge/Frontend-brightgreen"><br/><img alt="Backend" src="https://img.shields.io/badge/Backend-blue"><br/><img alt="Cloud Engineer" src="https://img.shields.io/badge/Cloud%20Engineer-brightorange"> | <img alt="Frontend" src="https://img.shields.io/badge/Frontend-brightgreen"><br/><img alt="Backend" src="https://img.shields.io/badge/Backend-blue"> |
