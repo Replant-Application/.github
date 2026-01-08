@@ -25,7 +25,12 @@
 
 > **"쉬었음 청년을 위한 성장 앱"** - 나만의 미션으로 성장하는 캐릭터와 함께하는 심리상담 플랫폼
 
-<img width="908" height="400" alt="image" src="https://github.com/user-attachments/assets/e6b6ddaa-43bf-4b6d-b6bf-2d8c1396d434" />
+<img width="1200" height="440" alt="image" src="https://github.com/user-attachments/assets/c8edd96d-e4c3-4d9f-89b7-040b237e9539" />
+<img width="1200" height="440" alt="image" src="https://github.com/user-attachments/assets/d0aa5802-9c29-414e-b41f-527d9f105938" />
+<img width="235" height="440" alt="image" src="https://github.com/user-attachments/assets/800c350e-d203-4dab-9cbf-9658eab221c7" />
+
+## Service Architecture
+<img width="2111" height="1801" alt="제목 없는 다이어그램 drawio (4) (1)" src="https://github.com/user-attachments/assets/31fd60ec-1057-4f37-ac4c-47bfa78f49aa" />
 
 ## Stack & Libraries
 
